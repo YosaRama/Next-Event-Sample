@@ -6,7 +6,7 @@ const DUMMY_DATA = [
     location: "Jl. Gadung No.61",
     description: "Learn react js is something fun",
     isFeatured: true,
-    image: "image/react-js.jpg",
+    image: "/images/react-js.jpg",
     category: "javascript",
   },
   {
@@ -16,7 +16,7 @@ const DUMMY_DATA = [
     location: "Jl. Gadung No.62",
     description: "Learn Next js is something fun",
     isFeatured: true,
-    image: "image/next-js.jpg",
+    image: "/images/next-js.jpg",
     category: "javascript",
   },
   {
@@ -26,7 +26,7 @@ const DUMMY_DATA = [
     location: "Jl. Gadung No.63",
     description: "Learn SCSS js is something fun",
     isFeatured: false,
-    image: "image/scss.jpg",
+    image: "/images/scss.jpg",
     category: "stylesheet",
   },
 ];
