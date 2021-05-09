@@ -2,9 +2,10 @@
   display: flex;
   flex-wrap: wrap;
   box-shadow: 5px 5px 5px 5px #888888;
-  margin: 50px;
+  margin: 50px auto;
   background-color: #fff;
   height: 400px;
+  width: 1140px;
 }
 
 .image_container {
